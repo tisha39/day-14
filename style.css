@@ -1,0 +1,41 @@
+section{
+display: flex;
+justify-content: center;
+align-items: center;
+
+
+}
+#dib1{
+height:290px;
+width: 450px;
+background-color:green;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+#dib2{
+height: 200px;
+width: 200px;
+background-color: yellow;
+display: flex;
+justify-content: center;
+align-items: center;
+transform: rotate(43deg);
+}
+#circle{
+width: 150px;
+height: 150px;
+border-radius: 50%;
+background-color: darkblue;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+h1{
+font-size: 20px;
+text-align: center;
+}
+#ctext{
+transform: rotate(317deg);
+align-items: center;
+}
